@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forthey&layout=pie&theme=dark" alt="Top Langs" width="50%">
-  </a>
-</div>
+[![Stats](https://github-readme-stats.vercel.app/api?username=forthey)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <a href="https://leetcode.com/u/0forthey0">
