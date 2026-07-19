@@ -53,11 +53,8 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Forthey&layout=compact&hide_border=true&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Forthey&layout=compact&hide_border=true&theme=default">
-    <img alt="Наиболее используемые языки" src="https://github-readme-stats.vercel.app/api/top-langs?username=Forthey&layout=compact&hide_border=true&theme=dark">
-  </picture>
+  <img alt="Наиболее используемые языки"
+       src="./metrics.plugin.languages.svg">
 </div>
 
 <div align="center">
