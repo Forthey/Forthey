@@ -48,7 +48,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=Forthey&show_icons=true&hide_border=true&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Forthey&show_icons=true&hide_border=true&theme=default">
-    <img alt="Статистика GitHub" src="https://github-readme-stats.vercel.app/api?username=Forthey&show_icons=true&hide_border=true&theme=dark">
+    <img alt="Статистика GitHub" src="https://github-readme-stats-vert-three-20.vercel.app/api?username=Forthey&show_icons=true&hide_border=true&theme=dark&exclude_repo=my_thesis">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Forthey&layout=compact&hide_border=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Forthey&layout=compact&hide_border=true&theme=default">
+    <img alt="Наиболее используемые языки" src="https://github-readme-stats-vert-three-20.vercel.app/api/top-langs?username=Forthey&layout=compact&hide_border=true&theme=dark&exclude_repo=my_thesis">
   </picture>
 </div>
 
