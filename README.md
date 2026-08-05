@@ -46,6 +46,8 @@
   </picture>
 </div>
 
+<br>
+
 <div align="center">
   <img alt="Наиболее используемые языки"
        src="./metrics.plugin.languages.svg">
