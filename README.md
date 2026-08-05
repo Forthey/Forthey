@@ -50,11 +50,6 @@
 </div>
 
 <div align="center">
-  <img alt="Изменение количества строк кода"
-       src="./metrics.plugin.lines.svg">
-</div>
-
-<div align="center">
   <img alt="Статистика LeetCode"
        src="./metrics.plugin.leetcode.svg">
 </div>
