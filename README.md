@@ -39,9 +39,11 @@
 <h2 align="center">Статистика GitHub</h2>
 
 <div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img alt="Статистика GitHub (extended)" src="https://github-stats-extended.vercel.app/api?username=Forthey">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=default">
+    <img alt="Серия коммитов" src="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=dark">
+  </picture>
 </div>
 
 <div align="center">
@@ -52,14 +54,6 @@
 <div align="center">
   <img alt="Статистика LeetCode"
        src="./metrics.plugin.leetcode.svg">
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=default">
-    <img alt="Серия коммитов" src="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=dark">
-  </picture>
 </div>
 
 <hr>
