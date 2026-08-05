@@ -55,6 +55,11 @@
 </div>
 
 <div align="center">
+  <img alt="Статистика LeetCode"
+       src="./metrics.plugin.leetcode.svg">
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Forthey&hide_border=true&theme=default">
