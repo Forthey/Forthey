@@ -86,50 +86,26 @@ svg.bar {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.49499081640764" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="200.49499081640764" y="0" width="146.51791611404124" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="347.0129069304489" y="0" width="20.899439574528603" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="367.91234650497745" y="0" width="18.41477615595105" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="386.3271226609285" y="0" width="14.949790539955309" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="401.2769132008838" y="0" width="58.72308679911618" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="182.03799844986102" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="182.03799844986102" y="0" width="108.23579633193168" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="290.2737947817927" y="0" width="80.5763948281187" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="370.8501896099114" y="0" width="45.02675994227069" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="415.8769495521821" y="0" width="10.425486422920676" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.3024359751028" y="0" width="33.69756402489725" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                HTML
                             </div>
                             <small>
-                                <div>43.59%</div>
+                                <div>39.57%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TeX
-                            </div>
-                            <small>
-                                <div>4.54%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Java
-                            </div>
-                            <small>
-                                <div>3.25%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -138,7 +114,7 @@ svg.bar {
                                 C++
                             </div>
                             <small>
-                                <div>31.85%</div>
+                                <div>17.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -149,7 +125,31 @@ svg.bar {
                                 TypeScript
                             </div>
                             <small>
-                                <div>4%</div>
+                                <div>2.27%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>23.53%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TeX
+                            </div>
+                            <small>
+                                <div>9.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -160,7 +160,7 @@ svg.bar {
                                 Other
                             </div>
                             <small>
-                                <div>12.77%</div>
+                                <div>7.33%</div>
                             </small>
                         </div>
                     </section>
