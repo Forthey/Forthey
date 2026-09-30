@@ -86,12 +86,12 @@ svg.bar {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.89878025290892" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="178.89878025290892" y="0" width="106.36928612911605" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="285.268066382025" y="0" width="81.96711396077082" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="367.2351803427958" y="0" width="45.06826147735464" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="412.30344182015045" y="0" width="10.245700460816044" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="422.5491422809665" y="0" width="37.450857719033536" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.85937046379277" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="178.85937046379277" y="0" width="106.34585393394481" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="285.2052243977376" y="0" width="82.0503911988644" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="367.25561559660196" y="0" width="45.058333345490674" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="412.3139489420926" y="0" width="10.243443425335215" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="422.55739236742784" y="0" width="37.44260763257214" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@ svg.bar {
                                 HTML
                             </div>
                             <small>
-                                <div>38.89%</div>
+                                <div>38.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@ svg.bar {
                                 C++
                             </div>
                             <small>
-                                <div>17.82%</div>
+                                <div>17.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
