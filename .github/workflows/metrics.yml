@@ -32,7 +32,7 @@ jobs:
           plugin_languages_threshold: 1%
           plugin_languages_sections: most-used
           plugin_languages_skipped: |
-            Forthey/my_thesis
+            Forthey/polytech-thesis
 
           # Компактная карточка с адаптивными цветами для светлой и тёмной темы
           extras_css: |
