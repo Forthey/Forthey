@@ -86,35 +86,24 @@ svg.bar {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.85937046379277" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="178.85937046379277" y="0" width="106.34585393394481" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="285.2052243977376" y="0" width="82.0503911988644" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="367.25561559660196" y="0" width="45.058333345490674" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="412.3139489420926" y="0" width="10.243443425335215" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="422.55739236742784" y="0" width="37.44260763257214" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.713152518076" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="192.713152518076" y="0" width="156.57518759490586" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="349.28834011298187" y="0" width="19.087765967272954" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="368.37610608025483" y="0" width="15.49614834683721" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="383.872254427092" y="0" width="14.647572811946958" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="398.51982723903893" y="0" width="61.48017276096105" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                Python
                             </div>
                             <small>
-                                <div>38.88%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                C++
-                            </div>
-                            <small>
-                                <div>17.84%</div>
+                                <div>41.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -125,7 +114,18 @@ svg.bar {
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.23%</div>
+                                <div>4.15%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                CSS
+                            </div>
+                            <small>
+                                <div>3.18%</div>
                             </small>
                         </div>
                     </section>
@@ -133,23 +133,23 @@ svg.bar {
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                C++
                             </div>
                             <small>
-                                <div>23.12%</div>
+                                <div>34.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TeX
+                                Java
                             </div>
                             <small>
-                                <div>9.8%</div>
+                                <div>3.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -160,7 +160,7 @@ svg.bar {
                                 Other
                             </div>
                             <small>
-                                <div>8.14%</div>
+                                <div>13.37%</div>
                             </small>
                         </div>
                     </section>
