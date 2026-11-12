@@ -86,12 +86,12 @@ svg.bar {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.4959288180224" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="260.4959288180224" y="0" width="110.48769241037029" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="370.9836212283927" y="0" width="16.464771028878495" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="387.44839225727117" y="0" width="15.38478029167703" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="402.83317254894826" y="0" width="10.02262104839509" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="412.85579359734334" y="0" width="47.144206402656685" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.4649212142556" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="264.4649212142556" y="0" width="108.08611751508224" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="372.55103872933785" y="0" width="16.106890617974834" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="388.6579293473127" y="0" width="15.130577534599992" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="403.78850688191267" y="0" width="9.804768049841993" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="413.59327493175465" y="0" width="46.40672506824537" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -103,7 +103,7 @@ svg.bar {
                                 Python
                             </div>
                             <small>
-                                <div>56.63%</div>
+                                <div>57.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -114,7 +114,7 @@ svg.bar {
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.58%</div>
+                                <div>3.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -125,7 +125,7 @@ svg.bar {
                                 CSS
                             </div>
                             <small>
-                                <div>2.18%</div>
+                                <div>2.13%</div>
                             </small>
                         </div>
                     </section>
@@ -138,7 +138,7 @@ svg.bar {
                                 C++
                             </div>
                             <small>
-                                <div>24.02%</div>
+                                <div>23.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -149,7 +149,7 @@ svg.bar {
                                 Java
                             </div>
                             <small>
-                                <div>3.34%</div>
+                                <div>3.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -160,7 +160,7 @@ svg.bar {
                                 Other
                             </div>
                             <small>
-                                <div>10.25%</div>
+                                <div>10.09%</div>
                             </small>
                         </div>
                     </section>
